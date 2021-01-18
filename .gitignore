@@ -128,33 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-## Additionally added 
-# directories
-models/lightning_logs
-models/default
-#models/results
-models/runs
-
-data/MNIST/*
-data/numpy
-data/openlens/large
-data/movielens/*
-data/kaggle/*
-
-models/results/disentanglement-imgs/*.png
-models/results/example-imgs/*.png
-#models/results/generated/*
-models/results/mnist_imgs/*.png
-
-models/results/models/*/*.ckpt
-models/results/models/*/*.json
-models/results/models/*/*.pickle
-models/wandb/*
+## Additionally added directories
 data/output/*
-
+data/generated/*
 .idea/*
-data/*
-
 
 # IDE specific
 **/.idea/workspace.xml 
