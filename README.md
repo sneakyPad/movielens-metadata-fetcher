@@ -1,7 +1,9 @@
 <p align="center">
     <strong>Enhancing movielens data with IMDb metadata</strong>
 </p>
-This repository uses imdbpy.github.io to fetch the metadata for movielens movies. The movielens dataset contains
+
+This repository uses the [imdbpy.github.io](https://imdbpy.github.io/)
+to fetch the metadata for movielens movies. The movielens dataset contains
 a csv file that has the mapping of movielens id to IMDb id. This id is used to fetch the main attributes with IMDbPY.
 Since IMDbPY does not fetch all attributes I employ Beautiful Soup to fetch additional metadata, such as:
 
