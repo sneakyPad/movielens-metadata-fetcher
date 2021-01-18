@@ -26,9 +26,9 @@ Excerpt input:
 |  3 | 0113228  | 15602  |
 
 Fetched attributes:
-<code><it>
-> - original_title, cast, genres, runtimes, countries, country_codes, language_codes, color_info, aspect_ratio, sound_mix, original_air_date, rating, votes,imdbid,plot_outline,languages,title,year,kind,directors,writers,producers,composers,editors,animation_department,casting_department,music_department,writer,director,top_250_rank,plot,set_decorators,script_department,assistant_directors,costume_designers,budget,cumulative_worldwide_gross,stars,cast_id,stars_id
-</it></code>
+<it>
+> original_title, cast, genres, runtimes, countries, country_codes, language_codes, color_info, aspect_ratio, sound_mix, original_air_date, rating, votes,imdbid,plot_outline,languages,title,year,kind,directors,writers,producers,composers,editors,animation_department,casting_department,music_department,writer,director,top_250_rank,plot,set_decorators,script_department,assistant_directors,costume_designers,budget,cumulative_worldwide_gross,stars,cast_id,stars_id
+</it>
 
 
 ## Keywords
