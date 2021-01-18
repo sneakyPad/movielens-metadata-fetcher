@@ -1,0 +1,18 @@
+matplotlib==3.2.2
+numpy==1.19.0
+pandas==0.25.3
+scikit-learn==0.23.1
+setuptools==47.3.1
+requests==2.24.0
+bs4==0.0.1
+beautifulsoup4==4.9.1
+tqdm==4.46.1
+seaborn==0.11.0
+scipy==1.5.2
+imageio==2.9.0
+plotly==4.11.0
+scikit-image==0.17.2
+configparser==5.0.0
+Pillow==7.2.0
+imdbpy==2020.9.25
+pyjanitor== 0.20.10
