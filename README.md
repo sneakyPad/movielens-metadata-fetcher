@@ -17,13 +17,57 @@ For the movie avatar this can be found here:
 
 The mapping is available in data/input/movielens/small/links.
 
-Excerpt:
+Excerpt input:
 
 | movieId | imdbId  | tmdbId  |
 |---|---|---|
 | 1  | 0114709  |  862 |
 |  2 |  0113497 | 8844  |
 |  3 | 0113228  | 15602  |
+
+Fetched attributes:
+- original_title
+- cast 
+- genres 
+- runtimes
+- countries 
+- country_codes 
+- language_codes 
+- color_info 
+- aspect_ratio 
+- sound_mix 
+- original_air_date 
+- rating 
+- votes 
+- imdbid
+- plot_outline
+- languages 
+- title
+- year 
+- kind 
+- directors
+- writers
+- producers
+- composers
+- editors
+- animation_department
+- casting_department
+- music_department 
+- writer
+- director
+- top_250_rank
+- plot
+- set_decorators
+- script_department
+- assistant_directors
+- costume_designers
+- budget 
+- cumulative_worldwide_gross 
+- stars 
+- cast_id
+- stars_id
+
+
 
 ## Keywords
 - 🎥 MovieLens
